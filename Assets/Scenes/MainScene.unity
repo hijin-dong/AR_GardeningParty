@@ -707,7 +707,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_PlanePrefab: {fileID: 2174102594049866351, guid: 0d27e917daf945c42a090f68136b8ceb, type: 3}
-  m_DetectionMode: -1
+  m_DetectionMode: 1
 --- !u!1 &1977362141
 GameObject:
   m_ObjectHideFlags: 0
