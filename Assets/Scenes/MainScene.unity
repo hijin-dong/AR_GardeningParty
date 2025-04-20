@@ -821,6 +821,8 @@ GameObject:
   - component: {fileID: 961315421}
   - component: {fileID: 961315423}
   - component: {fileID: 961315422}
+  - component: {fileID: 961315425}
+  - component: {fileID: 961315424}
   m_Layer: 0
   m_Name: XR Origin
   m_TagString: Untagged
@@ -929,6 +931,39 @@ MonoBehaviour:
   placedObjectLayerMask:
     serializedVersion: 2
     m_Bits: 8
+--- !u!114 &961315424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 961315417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caeceacb624484daf8e379c2252fd246, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <trackablesChanged>k__BackingField:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FacePrefab: {fileID: 5376949158316804345, guid: 2daa73840e01f524a9a8843ff88253d1, type: 3}
+  m_MaximumFaceCount: 1
+--- !u!114 &961315425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 961315417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2d8ad3dc0daf1b4e9c1d2524abdd97e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: 15303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: c25cb43f393e9eb4593d88257f42cbd5, type: 2}
 --- !u!1 &1025939198
 GameObject:
   m_ObjectHideFlags: 0
