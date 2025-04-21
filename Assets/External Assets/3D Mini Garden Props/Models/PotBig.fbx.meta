@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 80c75bfd336f84f58bc34f9c5fa99647
+guid: adcacc1989d14460f8b115a620e88375
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -112,5 +112,5 @@ AssetOrigin:
   productId: 301026
   packageName: 3D Mini Garden Props
   packageVersion: 1.0
-  assetPath: Assets/External Assets/3D Mini Garden Props/Models/EarthHill.fbx
+  assetPath: Assets/External Assets/3D Mini Garden Props/Models/PotBig.fbx
   uploadId: 704256

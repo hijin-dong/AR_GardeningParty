@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6916389463708902981
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.376388
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.025
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.6454499
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5345874947933997568, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      propertyPath: m_Name
+      value: Tulip (Red) Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 6044221204499112237, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+      insertIndex: 0
+      addedObject: {fileID: 5976227791729528005}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+--- !u!4 &7550750085362758597 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3977334471007638912, guid: 94601d60b3ec2e84bbb888d69bb9e328, type: 3}
+  m_PrefabInstance: {fileID: 6916389463708902981}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7888376554352351946
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7550750085362758597}
+    m_Modifications:
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5681427751875814761, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      propertyPath: m_Name
+      value: Tulip (Red)
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 2312471960055130351, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5681427751875814761, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1738865509539020881}
+  m_SourcePrefab: {fileID: 100100000, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+--- !u!1 &2567430976828063651 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5681427751875814761, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+  m_PrefabInstance: {fileID: 7888376554352351946}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1738865509539020881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2567430976828063651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9943d65967e50854baf5bfab84d9e012, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vfxPrefab: {fileID: 161766660727748596, guid: 05ce920d629922a4eb4795ef7494ce5c, type: 3}
+--- !u!4 &5976227791729528005 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4582121447138924047, guid: 3a957aeec5c4b8f4c990779b84f8cad1, type: 3}
+  m_PrefabInstance: {fileID: 7888376554352351946}
+  m_PrefabAsset: {fileID: 0}
